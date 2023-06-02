@@ -1,6 +1,6 @@
 # Redirects from what the browser requests to what we serve
 /home                /
-/login    /login
-/products                /products
+/login              /login
+/products           /products
 /about              /about
 /authors/c%C3%A9line /authors/about-c%C3%A9line
