@@ -9,6 +9,5 @@ export default defineConfig({
     },
   },
   plugins: [react()],
-  base: '/',git add .
-  
+  base: '/',
 })
